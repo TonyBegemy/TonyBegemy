@@ -1,14 +1,14 @@
-<h1 align="center">Ahmed — AI Developer & MLOps Engineer</h1>
+<h1 align="center">Tony Begemy — AI & Software Developer</h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/TonyBegemy">
     <img src="https://readme-typing-svg.demolab.com?pause=1400&center=true&vCenter=true&width=720&lines=AI+Developer+%7C+MLOps+%7C+Kubernetes%2FOpenShift;Watsonx.ai+%26+Cloud+Pak+for+Data;Model+Serving+%26+Training+Operators;Building+Enterprise+AI+Workflows" alt="Typing animation"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img alt="Followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&label=Followers"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/TonyBegemy"><img alt="Followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&label=Followers"></a>
+  <a href="https://linkedin.com/in/tonybzakaria"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://shields.io"><img alt="AI Focus" src="https://img.shields.io/badge/Focus-GenAI%20%7C%20MLOps%20%7C%20Platform-1f6feb?style=for-the-badge"></a>
 </p>
 
@@ -43,16 +43,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonyBegemy&show_icons=true&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=TonyBegemy&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TonyBegemy&theme=flat&no-frame=true&no-bg=true&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyBegemy&hide_border=true" />
 </p>
 
 ---
@@ -66,5 +66,4 @@
 ---
 
 ### 📫 Get in Touch
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)  
+- **LinkedIn:** [linkedin.com/in/tonybzakaria](https://linkedin.com/in/tonybzakaria)  
