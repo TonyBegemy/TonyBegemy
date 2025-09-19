@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://github.com/TonyBegemy"><img alt="Followers" src="https://img.shields.io/github/followers/TonyBegemy?style=for-the-badge&label=Followers"></a>
   <a href="https://linkedin.com/in/tonybzakaria"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://shields.io"><img alt="AI Focus" src="https://img.shields.io/badge/Focus-GenAI%20%7C%20MLOps%20%7C%20Platform-1f6feb?style=for-the-badge"></a>
 </p>
 
 ---
