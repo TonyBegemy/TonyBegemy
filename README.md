@@ -1,4 +1,4 @@
-<h1 align="center">Tony Begemy — AI & Software Developer</h1>
+<h1 align="center">Tony Begemy — AI & Software Engineer</h1>
 
 <p align="center">
   <a href="https://github.com/TonyBegemy">
