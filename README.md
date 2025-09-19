@@ -64,22 +64,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyBegemy&show_icons=true&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=TonyBegemy&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TonyBegemy&theme=flat&no-frame=true&no-bg=true&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TonyBegemy&hide_border=true" />
-</p>
-
----
-
 ### 🎯 Current Focus  
 - Building **practical applications** that solve real problems and focusing on delivering **MVPs** quickly.  
 - Exploring opportunities to create **passive income** through scalable and automated solutions.  
