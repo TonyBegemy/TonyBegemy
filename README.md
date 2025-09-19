@@ -42,8 +42,8 @@
 
   *Evaluated multiple LLMs for Arabic complex QA tasks using the ACQAD dataset and implemented multi-hop reasoning pipelines leveraging GPT-4 for improved performance. Presented at **ACLing 2024 (Dubai, UAE)**.*  
 
-
 ---
+
 ### 🔧 Tech Stack
 <p>
   <a href="https://skillicons.dev">
